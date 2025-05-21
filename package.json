@@ -1,7 +1,7 @@
 {
 	"name": "drizzle-dbml-cli",
 	"type": "module",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A quick and dirty CLI for drizzle-dbml-generator",
 	"main": "index.js",
 	"bin": {
